@@ -1,0 +1,364 @@
+[04-Jan-2023 19:48:16 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[04-Jan-2023 19:48:16 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:16 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:16 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:16 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:16 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:16 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:16 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:16 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:16 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[04-Jan-2023 19:48:16 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[04-Jan-2023 19:48:16 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:16 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:16 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:16 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:16 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:16 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:16 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:16 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:16 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[04-Jan-2023 19:48:16 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[04-Jan-2023 19:48:16 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:16 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:16 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:16 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:16 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:16 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:16 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:16 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:16 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[04-Jan-2023 19:48:16 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[04-Jan-2023 19:48:16 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:16 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:16 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:16 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:16 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:16 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:16 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:16 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:16 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[04-Jan-2023 19:48:37 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[04-Jan-2023 19:48:37 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:37 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:37 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:37 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:37 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:37 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:37 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:37 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:37 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[04-Jan-2023 19:48:37 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[04-Jan-2023 19:48:37 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:37 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:37 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:37 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:37 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:37 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:37 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:37 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:37 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[04-Jan-2023 19:48:37 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[04-Jan-2023 19:48:37 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:37 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:37 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:37 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:37 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:37 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:37 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:37 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:37 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[04-Jan-2023 19:48:37 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[04-Jan-2023 19:48:37 UTC] PHP Stack trace:
+[04-Jan-2023 19:48:37 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[04-Jan-2023 19:48:37 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[04-Jan-2023 19:48:37 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[04-Jan-2023 19:48:37 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[04-Jan-2023 19:48:37 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[04-Jan-2023 19:48:37 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[04-Jan-2023 19:48:37 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[04-Jan-2023 19:48:37 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:22 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 11:41:22 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:22 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:22 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:22 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:22 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:22 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:22 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:22 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:22 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:22 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 11:41:22 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:22 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:22 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:22 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:22 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:22 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:22 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:22 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:22 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:22 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 11:41:22 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:22 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:22 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:22 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:22 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:22 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:22 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:22 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:22 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:22 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[05-Jan-2023 11:41:22 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:22 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:22 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:22 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:22 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:22 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:22 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:22 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:22 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:24 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 11:41:24 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:24 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:24 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:24 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:24 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:24 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:24 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:24 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:24 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:24 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 11:41:24 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:24 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:24 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:24 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:24 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:24 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:24 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:24 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:24 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:24 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 11:41:24 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:24 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:24 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:24 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:24 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:24 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:24 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:24 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:24 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 11:41:24 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[05-Jan-2023 11:41:24 UTC] PHP Stack trace:
+[05-Jan-2023 11:41:24 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 11:41:24 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 11:41:24 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 11:41:24 UTC] PHP   4. tld_extract($url = 'http://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 11:41:24 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'http://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 11:41:24 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 11:41:24 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 11:41:24 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:29 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[05-Jan-2023 12:14:29 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:29 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:29 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:29 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:29 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:29 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:29 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:29 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:29 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:43 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 12:14:43 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:43 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:43 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:43 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:43 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:43 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:43 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:43 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:43 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:43 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 12:14:43 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:43 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:43 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:43 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:43 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:43 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:43 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:43 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:43 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:43 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 12:14:43 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:43 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:43 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:43 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:43 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:43 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:43 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:43 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:43 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:14:43 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[05-Jan-2023 12:14:43 UTC] PHP Stack trace:
+[05-Jan-2023 12:14:43 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:14:43 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:14:43 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:14:43 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:14:43 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:14:43 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:14:43 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:14:43 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:18:32 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 12:18:32 UTC] PHP Stack trace:
+[05-Jan-2023 12:18:32 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:18:32 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:18:32 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:18:32 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:18:32 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:18:32 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:18:32 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:18:32 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:18:32 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 12:18:32 UTC] PHP Stack trace:
+[05-Jan-2023 12:18:32 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:18:32 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:18:32 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:18:32 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:18:32 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:18:32 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:18:32 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:18:32 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:18:32 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 12:18:32 UTC] PHP Stack trace:
+[05-Jan-2023 12:18:32 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:18:32 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:18:32 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:18:32 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:18:32 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:18:32 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:18:32 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:18:32 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:18:32 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
+[05-Jan-2023 12:18:32 UTC] PHP Stack trace:
+[05-Jan-2023 12:18:32 UTC] PHP   1. {main}() /home/tmsitiuz/market.tmsiti.uz/index.php:0
+[05-Jan-2023 12:18:32 UTC] PHP   2. require_once() /home/tmsitiuz/market.tmsiti.uz/index.php:328
+[05-Jan-2023 12:18:32 UTC] PHP   3. require_once() /home/tmsitiuz/market.tmsiti.uz/system/core/CodeIgniter.php:72
+[05-Jan-2023 12:18:32 UTC] PHP   4. tld_extract($url = 'https://market.tmsiti.uz/', $mode = *uninitialized*) /home/tmsitiuz/market.tmsiti.uz/application/config/constants.php:96
+[05-Jan-2023 12:18:32 UTC] PHP   5. LayerShifter\TLDExtract\Extract->parse($url = 'https://market.tmsiti.uz/') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/static.php:35
+[05-Jan-2023 12:18:32 UTC] PHP   6. Composer\Autoload\ClassLoader->loadClass($class = 'LayerShifter\\TLDExtract\\Result') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Extract.php:167
+[05-Jan-2023 12:18:32 UTC] PHP   7. Composer\Autoload\includeFile($file = '/home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/../layershifter/tld-extract/src/Result.php') /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:322
+[05-Jan-2023 12:18:32 UTC] PHP   8. include() /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/composer/ClassLoader.php:444
+[05-Jan-2023 12:19:30 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 189
+[05-Jan-2023 12:19:30 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 203
+[05-Jan-2023 12:19:30 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 251
+[05-Jan-2023 12:19:30 UTC] PHP Deprecated:  Return type of LayerShifter\TLDExtract\Result::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/tmsitiuz/market.tmsiti.uz/application/third_party/domain-parser/layershifter/tld-extract/src/Result.php on line 267
